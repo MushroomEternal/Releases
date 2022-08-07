@@ -22,7 +22,7 @@ And then press enter, And drag into mods folder
 If on Windows
 
 
-Type %appdata% into your search button on your hotbar 
+Type %appdata% into your search on your windows taskbar 
 
 
 
@@ -32,7 +32,7 @@ And then click on .minecraft
 
 And then click on mods
 
-And then drag into mods folder
+And then drag Mushroom Eternal into your mods folder
 
 
 Info
