@@ -50,6 +50,13 @@ IMPORTANT INFORMATION: THIS MOD IS CONFIRMED BY THE ADMINS AND YOU WILL NOT GET 
 
 
 
+Images
+--------------------------------------------------------------------------------------------------------
 
+Setup -
 
 ![image](https://user-images.githubusercontent.com/110674936/183275323-64697e3b-c6da-4302-837a-8bb530208890.png)
+
+Mushroom Eternal's custom ah GUI
+![image](https://user-images.githubusercontent.com/110674936/183275422-6ea5bc7a-8645-44f2-93dc-6ac52e43cf6c.png)
+
