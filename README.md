@@ -1,5 +1,7 @@
  <sub>Version - 1.8.9</sub>
  
+ This is a popular flipping mod, used by over 43.3% of top flippers! Mushroom Eternal finds AH snipes so quick, you can make over 4B in a day from being quite lucky/depending on how large your budget is!
+ 
  
 
 
