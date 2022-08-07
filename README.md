@@ -1,6 +1,9 @@
 This is a new mod in the Skyblock Hypixel community it helps you with ah flipping items! It works on forge 1.8.9 and here are the instructions
 
-1.Download
+
+
+Download
+----------------------------------------------------------------------------------------------------
 
 
  If on Mac
@@ -10,8 +13,8 @@ Hold down Shift Command and G on your keyboard
 Type: ∼/Library/Application Support/minecraft/mods
 
 
-And then press enter
-And then drag Mod into your mods folder 
+And then press enter, And drag into mods folder
+
 
 
 ------------------------------------------------------------------------------------------------------
@@ -22,13 +25,17 @@ If on Windows
 Type %appdata% into your search button on your hotbar 
 
 
+
 And then click on .minecraft 
+
 
 
 And then click on mods
 
+And then drag into mods folder
 
-And then drag in Mod into your mods folder 
+
+Info
 ------------------------------------------------------------------------------------------------------
 
 6.commands: /ahf to open the menu /bind ahf ( keybind to open menu )
