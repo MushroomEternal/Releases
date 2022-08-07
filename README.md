@@ -1,4 +1,7 @@
-This is a new mod in the Skyblock Hypixel community it helps you with ah flipping items! It works on forge 1.8.9 and here are the instructions
+ <sub>Version - 1.8.9</sub>
+ 
+ 
+
 
 ***DO NOT Download this mod from anywhere else, as this is the official release, and the only safe one!***
 
