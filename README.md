@@ -7,7 +7,7 @@
  This is a popular flipping mod, used by over 43.3% of top flippers! Mushroom Eternal finds AH snipes so quick, you can make over 4B in a day from being quite lucky/depending on how large your budget is!
  
  
-
+If you are scared of getting banned, understand that this mod has been fully allowed by the hypixel admin team due to a few tweaks I did. Flip away!
 
 ***DO NOT Download this mod from anywhere else, as this is the official release, and the only safe one!***
 
